@@ -16,12 +16,15 @@ The DNA Kingdom Prediction application is a cutting-edge tool that helps the sci
 3. TRANSFORMATION OF DATA: Includes replacements of cells in the data for better understanding.
 4. PREPARATION OF MODEL: Testing different models and finding the best out of it. The machine learning algorithms used here are                       
                          1. DECISION TREE CLASSIFIER which provided an accuracy of 77.27. <br>
-                         2. RANDOM FOREST CLASSIFIER which provided an accuracy of 90.45.
+                         2. RANDOM FOREST CLASSIFIER which provided an accuracy of 90.45. <br><br>
+                         <img src = "Comparison of Accuracy.png" /> <br>
 5. INTEL ONE API: Training the model using IntelOneAPI to get better results and faster computation.<br>
                   BUILDING THE MODEL USING COLAB took 2 minutes and 43 seconds.<br>
-                  BUILDING THE MODEL USING INTEL ONE API took 55 seconds.
+                  BUILDING THE MODEL USING INTEL ONE API took 55 seconds. <br><br>
+                  <img src = "Intel OneAPI.png" /> <br>
 6. SAVE THE MODEL: The accuracy of the respective models and the results from the dataset are stored.
-7. DEPLOY THE MODEL: The model is deployed using Streamlit application package in python.
+7. DEPLOY THE MODEL: The model is deployed using Streamlit application package in python. <br><br>
+                     <img src = "Streamlit.jpg" /> <br>
 
 # DEPLOYMENT:
 The machine learning model was deployed into a web application with the help of Streamlit application package in python.
