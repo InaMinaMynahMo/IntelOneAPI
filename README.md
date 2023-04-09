@@ -1,7 +1,7 @@
-# IntelOneAPI
+# IntelOneAPI 
 DAKSH '23 @ SASTRA
 
-# INSPIRATION:<br>
+# INSPIRATION:<br> <img src = 
 A codon, in biology, is the basic genetic unit of life that acts as the template for the amino acid synthesis required for protein expression. All the information required for life is stored in the genes and protein expression is the modality through which information encoded on the genes is expressed. Thus, the codon acts as an essential genetic unit of life. Until the development of bioinformatics, the only way to locate genes and research on them was to study their behavior in the organism or isolate the DNA and study it in a test tube. Bioinformatics allows scientists to make educated guesses about genes simply by analyzing sequence data using a computer. In light of this, the inspiration for the DNA Kingdom Prediction machine learning model is to surpass the first stage of the research i.e., to identify which kingdom the organism belong to. Ultimately, this project has the potential to play a significant role in gene and it's characteristics.
 
 # PROBLEM STATEMENT:<br>
@@ -14,7 +14,7 @@ The DNA Kingdom Prediction application is a cutting-edge tool that helps the sci
 1. IMPORT THE LIBRARIES: The necessary packages and libraries are imported into the python notebook.
 2. PREPROCESSING THE DATA: The provided data is understood and preprocessed according to the requirements.
 3. TRANSFORMATION OF DATA: Includes replacements of cells in the data for better understanding.
-4. PREPARATION OF MODEL: Testing different models and finding the best out of it. The machine learning algorithms used here are <br>                        
+4. PREPARATION OF MODEL: Testing different models and finding the best out of it. The machine learning algorithms used here are                       
                          1. DECISION TREE CLASSIFIER which provided an accuracy of 77.27. <br>
                          2. RANDOM FOREST CLASSIFIER which provided an accuracy of 90.45.
 5. INTEl ONE API: Training the model using IntelOneAPI to get better results and faster computation.<br>
@@ -36,9 +36,9 @@ The machine learning model was deployed into a web application with the help of 
     4. BIOLOGICAL TRENDS: I likely gained insight into current trends in biological field with respect to technology and various applications of computer domains in                             the field of biological research.
 
 # FUTURE ENHANCEMENTS:
-After identifying the kingdom of specified species it can be improvised for identifying,
-    1. The characteristics of the species provided the codon.
-    2. The DNA sequence of the species.
+After identifying the kingdom of specified species it can be improvised for identifying, <br>
+    1. The characteristics of the species provided the codon. <br>
+    2. The DNA sequence of the species. <br>
     3. The characteristics of genes that will be reflected in future generation of the respective species.
 
 # REFERENCES:
