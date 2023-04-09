@@ -24,7 +24,7 @@ The DNA Kingdom Prediction application is a cutting-edge tool that helps the sci
                   <img src = "Intel OneAPI.png" /> <br>
 6. SAVE THE MODEL: The accuracy of the respective models and the results from the dataset are stored.
 7. DEPLOY THE MODEL: The model is deployed using Streamlit application package in python. <br><br>
-                     <img src = "Streamlit.png" /> <br>
+                     <img src = "Streamlit.jpg" /> <br>
 
 # DEPLOYMENT:
 The machine learning model was deployed into a web application with the help of Streamlit application package in python.
