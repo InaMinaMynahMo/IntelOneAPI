@@ -4,7 +4,7 @@ DAKSH '23 @ SASTRA
 # INSPIRATION:  <img src = "Inspiration.png" /> <br>
 A codon, in biology, is the basic genetic unit of life that acts as the template for the amino acid synthesis required for protein expression. All the information required for life is stored in the genes and protein expression is the modality through which information encoded on the genes is expressed. Thus, the codon acts as an essential genetic unit of life. Until the development of bioinformatics, the only way to locate genes and research on them was to study their behavior in the organism or isolate the DNA and study it in a test tube. Bioinformatics allows scientists to make educated guesses about genes simply by analyzing sequence data using a computer. In light of this, the inspiration for the DNA Kingdom Prediction machine learning model is to surpass the first stage of the research i.e., to identify which kingdom the organism belong to. Ultimately, this project has the potential to play a significant role in gene and it's characteristics.
 
-# PROBLEM STATEMENT:<br>
+# PROBLEM STATEMENT: <img src= /> <br>
 The problem statement is to efficiently analyse which kingdom of biology do the specified organism belong to using the codon.
 
 # WHAT IT DOES?<br>
